@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### [Baiyu Chen](https://baiyuchen.com/)<sup>1,2</sup>, [Wilson Wongso](https://wilsonwongso.dev)<sup>1,2</sup>, [Zechen Li](https://scholar.google.com/citations?user=EVOzBF4AAAAJ&hl=en)<sup>1</sup>, [Yonchanok Khaokaew](https://scholar.google.com/citations?user=gk2wKhIAAAAJ&hl=en)<sup>1,2</sup>, [Hao Xue](https://www.unsw.edu.au/staff/hao-xue)<sup>1,2</sup>, and [Flora Salim](https://fsalim.github.io/)<sup>1,2</sup>
+### [Baiyu Chen](https://baiyuchen.com/)<sup>1,2</sup>, [Wilson Wongso](https://wilsonwongso.dev)<sup>1,2</sup>, [Zechen Li](https://zechenli03.github.io/)<sup>1</sup>, [Yonchanok Khaokaew](https://scholar.google.com/citations?user=gk2wKhIAAAAJ&hl=en)<sup>1,2</sup>, [Hao Xue](https://haoxue01.github.io/)<sup>1,2</sup>, and [Flora Salim](https://fsalim.github.io/)<sup>1,2</sup>
 
 <sup>1</sup> School of Computer Science and Engineering, University of New South Wales, Sydney, Australia<br/>
 <sup>2</sup> ARC Centre of Excellence for Automated Decision Making + Society
@@ -18,6 +18,10 @@
 <p align="center">
   <img src="assets/logo.png" height="100">
 </p>
+
+## 📰 News
+- 05/2026: Excited to release our latest work [AnyMo](https://baiyuchen.com/project/AnyMo), a comprehensive framework for wearable motion understanding, covering synthetic IMU generation, geometry-aware pre-training, motion-language alignment, data resources, and a new [benchmark](https://huggingface.co/datasets/CRUISEResearchGroup/AnyMo-Bench).
+- 04/2026: Excited to share [ZARA](https://github.com/cruiseresearchgroup/ZARA) (Z̲ero-training A̲ctivity R̲easoning A̲gents), accepted to ACL Main (Oral), a training-free, evidence-grounded LLM agent framework for motion time-series reasoning!
 
 ## 🌟 Overview
 **COMODO** is an open source framework for Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition.
@@ -88,6 +92,10 @@ There's a lot of outstanding work on time-series and human activity recognition!
 - **DLinear**: Are Transformers Effective for Time Series Forecasting? [[Paper](https://arxiv.org/pdf/2205.13504.pdf), [Code](https://github.com/thuml/Time-Series-Library)]
 - **Informer**: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting [[Paper](https://arxiv.org/pdf/2012.07436), [Code](https://github.com/thuml/Time-Series-Library)]
 - **IMU2CLIP**: Language-grounded Motion Sensor Translation with Multimodal Contrastive Learning [[Paper](https://aclanthology.org/2023.findings-emnlp.883.pdf), [Code](https://github.com/facebookresearch/imu2clip)]
+- **CrossHAR**: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining [[Paper](https://dl.acm.org/doi/10.1145/3659597), [Code](https://github.com/kingdomrush2/CrossHAR)]
+- **IMUGPT 2.0**: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition [[Paper](https://dl.acm.org/doi/10.1145/3678545), [Code](https://github.com/ZikangLeng/IMUGPT)]
+- **Attend and Discriminate**: Beyond the State-of-the-Art for Human Activity Recognition Using Wearable Sensors [[Paper](https://dl.acm.org/doi/10.1145/3448083), [Code](https://github.com/AdelaideAuto-IDLab/Attend-And-Discriminate)]
+- **DeepConvLSTM**: Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition [[Paper](https://www.mdpi.com/1424-8220/16/1/115)]
 
 ## Citation
 
