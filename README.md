@@ -19,9 +19,10 @@
   <img src="assets/logo.png" height="100">
 </p>
 
-## 📰 News
-- 05/2026: Excited to release our latest work [AnyMo](https://baiyuchen.com/project/AnyMo), a comprehensive framework for wearable motion understanding, covering synthetic IMU generation, geometry-aware pre-training, motion-language alignment, data resources, and a new [benchmark](https://huggingface.co/datasets/CRUISEResearchGroup/AnyMo-Bench).
-- 04/2026: Excited to share [ZARA](https://github.com/cruiseresearchgroup/ZARA) (Z̲ero-training A̲ctivity R̲easoning A̲gents), accepted to ACL Main (Oral), a training-free, evidence-grounded LLM agent framework for motion time-series reasoning!
+## 📢 News
+- **05/2026:** Excited to release our latest work [**AnyMo**](https://baiyuchen.com/project/AnyMo), a comprehensive framework for wearable motion understanding, covering synthetic IMU generation, geometry-aware pre-training, motion-language alignment, data resources, and a new [benchmark](https://huggingface.co/datasets/CRUISEResearchGroup/AnyMo-Bench).
+
+- **05/2026:** Excited to share [**ZARA**](https://arxiv.org/abs/2508.04038) — **Z**ero-training **A**ctivity **R**easoning **A**gents, a training-free, evidence-grounded LLM agent framework for motion time-series reasoning — accepted as an **ACL 2026 Oral** paper!
 
 ## 🌟 Overview
 **COMODO** is an open source framework for Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition.
